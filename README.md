@@ -19,3 +19,4 @@ Remove the null values from the data
 Save the Clean data to the file
 
 # CODE and OUTPUT
+![Screenshot 2025-03-12 161003](https://github.com/user-attachments/assets/4c024b2c-0e9d-4245-90ce-a81f718e61d4)
